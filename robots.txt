@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /static/
+Disallow: /login
+
+Host: https://my.vexus.pw
+Sitemap: https://my.vexus.pw/sitemap.xml
