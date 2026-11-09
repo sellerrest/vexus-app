@@ -1,0 +1,4 @@
+* -text
+.gitattributes text eol=lf
+build-manifest.json text eol=lf
+CNAME text eol=lf
